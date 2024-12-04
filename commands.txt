@@ -13,3 +13,4 @@ git merge origin
 
 git config...
 
+git reflog
